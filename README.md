@@ -1,6 +1,6 @@
 # Chris Titus Tech 的 Windows 实用工具
 
-[![版本](https://img.shields.io/github/v/release/ChrisTitusTech/winutil?color=%230567ff&label=Latest%20Release&style=for-the-badge)](https://github.com/ChrisTitusTech/winutil/releases/latest)
+[![version](https://img.shields.io/github/v/release/ChrisTitusTech/winutil?color=%230567ff&label=Latest%20Release&style=for-the-badge)](https://github.com/ChrisTitusTech/winutil/releases/latest)
 ![GitHub下载（特定资源，所有版本）](https://img.shields.io/github/downloads/ChrisTitusTech/winutil/winutil.ps1?label=Total%20Downloads&style=for-the-badge)
 [![](https://dcbadge.limes.pink/api/server/https://discord.gg/RUbZUZyByQ?theme=default-inverted&style=for-the-badge)](https://discord.gg/RUbZUZyByQ)
 [![静态徽章](https://img.shields.io/badge/Documentation-_?style=for-the-badge&logo=bookstack&color=grey)](https://christitustech.github.io/winutil/)
@@ -22,14 +22,14 @@ Winutil必须在管理模式下运行，因为它执行系统范围的调整。�
 -键入“PowerShell”或“终端”（适用于Windows 11）。
 -按“Ctrl+Shift+Enter”或右键单击并选择“以管理员身份运行”以管理员权限启动它。
 
-###启动命令
+### 启动命令
 
-####稳定分支（推荐）
+#### 稳定分支（推荐）
 
 ```ps1
 irm”https://christitus.com/win“|iex
 ```
-####开发分支
+#### 开发分支
 
 ```ps1
 irm "https://christitus.com/windev" | iex
@@ -39,11 +39,11 @@ irm "https://christitus.com/windev" | iex
 
 ## 🎓 文档
 
-###[WinUtil官方文档](https://christitustech.github.io/winutil/)
+### [WinUtil官方文档](https://christitustech.github.io/winutil/)
 
-###[YouTube教程](https://www.youtube.com/watch?v=6UQZ5oQg8XA)
+### [YouTube教程](https://www.youtube.com/watch?v=6UQZ5oQg8XA)
 
-###[ChrisTitus.com文章](https://christitus.com/windows-tool/)
+### [ChrisTitus.com文章](https://christitus.com/windows-tool/)
 
 ## 💖 支持
 -为了在道义和精神上支持这个项目，一定要留下一个⭐️!
